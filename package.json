@@ -1,8 +1,8 @@
 {
-  "name": "@skeelotech/readium-css",
-  "description": "A set of reference stylesheets for EPUB Reading Systems (skeelotech fork)",
-  "version": "2.0.5-skeelo.1",
-  "homepage": "https://github.com/skeelotech/readium-css",
+  "name": "@skeelotech/gov-readium-css",
+  "description": "A set of reference stylesheets for EPUB Reading Systems (gov-books fork)",
+  "version": "2.0.5-gov.1",
+  "homepage": "https://github.com/skeelotech/gov-readium-css",
   "license": "BSD-3-Clause",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/skeelotech/readium-css.git"
+    "url": "https://github.com/skeelotech/gov-readium-css.git"
   },
   "bugs": {
     "url": "https://github.com/readium/css/issues"
